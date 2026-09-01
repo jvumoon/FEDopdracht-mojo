@@ -43,11 +43,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
  Homepagina patta
-  <img src="readme-images/" width="375px" alt="Boekings pagina mojo artiesten">
+  <img src="readme-images/homepagina.png" width="375px" alt="homepagina patta">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Productpagina Patta Peace Canvas Hooded Jacket (Fuchsia Purple) 
-  <img src="readme-images/Artiest.PNG" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/productpagina.png" width="375px" alt="product pagina hoodie patta">
  
 </details>
 
