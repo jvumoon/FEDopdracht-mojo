@@ -38,14 +38,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
-  https://www.mojo.nl/
+  https://patta.nl/
+  
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Boeken van artiesten via mojo 
-  <img src="readme-images/Boekpagina.PNG" width="375px" alt="Boekings pagina mojo artiesten">
+ Homepagina patta
+  <img src="readme-images/" width="375px" alt="Boekings pagina mojo artiesten">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Omschrijving artiest   
+  Productpagina Patta Peace Canvas Hooded Jacket (Fuchsia Purple) 
   <img src="readme-images/Artiest.PNG" width="375px" alt="omschrijving van de pagina">
  
 </details>
