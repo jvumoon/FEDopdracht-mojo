@@ -76,10 +76,10 @@ Dewi geeft wel aan dat bij het stukje over keyboard dat het op de website soms l
 <img src="pagina2annotaties.png" width="375px" alt="breakdown van de hele pagina 2">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="breakdownpagina1.jpeg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="breakdownpagina2.jpeg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
