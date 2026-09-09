@@ -66,7 +66,7 @@ Dewi geeft wel aan dat bij het stukje over keyboard dat het op de website soms l
 
 
 
-## Breakdownschets (week 1)https://github.com/jvumoon/FEDopdracht-mojo/blob/main/README.md
+## Breakdownschets (week 1)
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
