@@ -72,8 +72,8 @@ Dewi geeft wel aan dat bij het stukje over keyboard dat het op de website soms l
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/pagina1annotaties.png" width="375px" alt="breakdown van de hele pagina">
-<img src="readme-images/pagina2annotaties.png" width="375px" alt="breakdown van de hele pagina 2">
+  <img src="pagina1annotaties.png" width="375px" alt="breakdown van de hele pagina">
+<img src="pagina2annotaties.png" width="375px" alt="breakdown van de hele pagina 2">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
